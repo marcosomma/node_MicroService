@@ -1,0 +1,20 @@
+{
+  "name": "node_MicroService",
+  "version": "1.0.0",
+  "description": "Template [Node - RabbitMQ] MicroService",
+  "main": "receiver.js",
+  "scripts": {
+    "test": "mocha test",
+    "start" : "node receiver.js"
+  },
+  "author": "Marco Somma",
+  "license": "ISC",
+  "dependencies": {
+    "rabbit.js": "^0.4.4",
+    "request": "^2.64.0"
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*"
+  }
+}

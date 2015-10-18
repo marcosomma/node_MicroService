@@ -1,0 +1,13 @@
+{
+  "string_dictionary": {
+    "error_typeof_init" : "Wrong response type: %s .",
+    "error_typeof_unexpected_token" : "Wrong message type. Expexted type object.",
+    "error_typeof_end" : ". Expexted type object",
+    "context_create": "[x]Create context ",
+    "context_ready": "[x]Context ready.",
+    "context_queue": "[x]Connected to queue "
+  },
+  "url_dictionary" : {
+    "nominatim" : "http://nominatim.openstreetmap.org/reverse?email=mak.so1979@gmail.com&format=json"
+  }
+}
